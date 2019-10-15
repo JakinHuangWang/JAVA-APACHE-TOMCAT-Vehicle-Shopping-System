@@ -1,0 +1,361 @@
+Connecting to host ... 
+Connected to host, creating object streams ... 
+Communicating with host ... 
+Received server response ... 
+
+Enter 1 to upload a new Automobile
+Enter 2 to configure an Automobile
+Enter 0 to terminate connection
+
+Response to server: 
+1
+Input a filename for reading: 
+ToyotaCorolla.txt
+Error Code: 55	Missing Model Name  AutoException:  (model) 
+Missing Vehicle Name!!! Load Default Value
+Error Code: 75	Missing Float Value for Price  AutoException:  (model) 
+Missing BasePrice!! Load Default BasePrice
+Sending Default Vehicle
+20000.0
+
+Color
+Classic Silver Metallic $0.0
+Black Sand Pearl $0.0
+Barcelona Red Metallic $0.0
+Super White $0.0
+Slate Metallic $0.0
+Falcon Gray Metallic $0.0
+Galactic Aqua Mica $0.0
+Blue Crush Metallic $0.0
+
+Transmission
+Continuously Variable Transmission with Intelligence and Shift Mode(CVTi-S) $0.0
+
+SE Premium Package
+Present $1535.0
+not present $0.0
+
+Accessories
+Alloy Wheel Locks $67.0
+All-Weather Floor Liners $149.0
+Body Protection Package $487.0
+Body Side Moldings $209.0
+Cargo Net-Envelope $49.0
+Cargo Tote $49.0
+Cargo Tray $100.0
+Carpet Floor Mats $129.0
+Carpet Mat Package $244.0
+Carpet Trunk Mat $95.0
+Coin Holder/Ashtray Cup $26.0
+Door Edge Guards $125.0
+Door Sill Protectors $199.0
+Emergency Assistance Kit $59.0
+First Aid Kit $30.0
+Four Season Floor Mat Package $393.0
+TRD Performance Exhaust $700.0
+TRD Lowering Springs $299.0
+
+
+ to server ... 
+Received server response ... 
+{Ford Wagon ZTW=Ford Wagon ZTW
+18445.0
+
+Color
+Fort Knox Gold Clearcoat Metallic $0.0
+Liquid Grey Clearcoat Metallic $0.0
+Infra-Red Clearcoat $0.0
+Grabber Green Clearcoat Metallic $0.0
+Sangria Red Clearcoat Metallic $0.0
+French Blue Clearcoat Metallic $0.0
+Twilight Blue Clearcoat Metallic $0.0
+CD Silver Clearcoat Metallic $0.0
+Pitch Black Clearcoat $0.0
+Cloud 9 White Clearcoat $0.0
+
+Transmission
+Automatic $0.0
+manual $-815.0
+
+Brakes/Traction Control
+Standard $0.0
+ABS $400.0
+ABS with Advance Trac $1625.0
+
+Side Impact Air Bags
+Present $0.0
+not present $350.0
+
+Power Moonroof
+Present $0.0
+not present $595.0
+
+
+, Default Vehicle=Default Vehicle
+20000.0
+
+Color
+Classic Silver Metallic $0.0
+Black Sand Pearl $0.0
+Barcelona Red Metallic $0.0
+Super White $0.0
+Slate Metallic $0.0
+Falcon Gray Metallic $0.0
+Galactic Aqua Mica $0.0
+Blue Crush Metallic $0.0
+
+Transmission
+Continuously Variable Transmission with Intelligence and Shift Mode(CVTi-S) $0.0
+
+SE Premium Package
+Present $1535.0
+not present $0.0
+
+Accessories
+Alloy Wheel Locks $67.0
+All-Weather Floor Liners $149.0
+Body Protection Package $487.0
+Body Side Moldings $209.0
+Cargo Net-Envelope $49.0
+Cargo Tote $49.0
+Cargo Tray $100.0
+Carpet Floor Mats $129.0
+Carpet Mat Package $244.0
+Carpet Trunk Mat $95.0
+Coin Holder/Ashtray Cup $26.0
+Door Edge Guards $125.0
+Door Sill Protectors $199.0
+Emergency Assistance Kit $59.0
+First Aid Kit $30.0
+Four Season Floor Mat Package $393.0
+TRD Performance Exhaust $700.0
+TRD Lowering Springs $299.0
+
+
+}
+Response to server: 
+2
+Sending 2 to server ... 
+Received server response ... 
+Default Vehicle
+20000.0
+
+Color
+Classic Silver Metallic $0.0
+Black Sand Pearl $0.0
+Barcelona Red Metallic $0.0
+Super White $0.0
+Slate Metallic $0.0
+Falcon Gray Metallic $0.0
+Galactic Aqua Mica $0.0
+Blue Crush Metallic $0.0
+
+Transmission
+Continuously Variable Transmission with Intelligence and Shift Mode(CVTi-S) $0.0
+
+SE Premium Package
+Present $1535.0
+not present $0.0
+
+Accessories
+Alloy Wheel Locks $67.0
+All-Weather Floor Liners $149.0
+Body Protection Package $487.0
+Body Side Moldings $209.0
+Cargo Net-Envelope $49.0
+Cargo Tote $49.0
+Cargo Tray $100.0
+Carpet Floor Mats $129.0
+Carpet Mat Package $244.0
+Carpet Trunk Mat $95.0
+Coin Holder/Ashtray Cup $26.0
+Door Edge Guards $125.0
+Door Sill Protectors $199.0
+Emergency Assistance Kit $59.0
+First Aid Kit $30.0
+Four Season Floor Mat Package $393.0
+TRD Performance Exhaust $700.0
+TRD Lowering Springs $299.0
+
+
+
+Please Input an OptionSet name to Add(Press q to quit): Hahaha
+Please Input an Option Name(Press q to quit): haha
+Please Input a number for price: 909
+Please Input an Option Name(Press q to quit): q
+Please Input an OptionSet name(Press q to quit): q
+Response to server: 
+1
+Input a filename for reading: 
+Features1.prop
+Sending {ModelName=Tesla Model 3, Automatic emergency braking=5000, Forward Collision Warning=3500, Automatic High Beam=1950, Rear Cross Traffic Warning=4500, OptionSet=Safety, Blind Spot Warning/Alert=2750} to server ... 
+Received server response ... 
+{Ford Wagon ZTW=Ford Wagon ZTW
+18445.0
+
+Color
+Fort Knox Gold Clearcoat Metallic $0.0
+Liquid Grey Clearcoat Metallic $0.0
+Infra-Red Clearcoat $0.0
+Grabber Green Clearcoat Metallic $0.0
+Sangria Red Clearcoat Metallic $0.0
+French Blue Clearcoat Metallic $0.0
+Twilight Blue Clearcoat Metallic $0.0
+CD Silver Clearcoat Metallic $0.0
+Pitch Black Clearcoat $0.0
+Cloud 9 White Clearcoat $0.0
+
+Transmission
+Automatic $0.0
+manual $-815.0
+
+Brakes/Traction Control
+Standard $0.0
+ABS $400.0
+ABS with Advance Trac $1625.0
+
+Side Impact Air Bags
+Present $0.0
+not present $350.0
+
+Power Moonroof
+Present $0.0
+not present $595.0
+
+
+, Default Vehicle=Default Vehicle
+20000.0
+
+Color
+Classic Silver Metallic $0.0
+Black Sand Pearl $0.0
+Barcelona Red Metallic $0.0
+Super White $0.0
+Slate Metallic $0.0
+Falcon Gray Metallic $0.0
+Galactic Aqua Mica $0.0
+Blue Crush Metallic $0.0
+
+Transmission
+Continuously Variable Transmission with Intelligence and Shift Mode(CVTi-S) $0.0
+
+SE Premium Package
+Present $1535.0
+not present $0.0
+
+Accessories
+Alloy Wheel Locks $67.0
+All-Weather Floor Liners $149.0
+Body Protection Package $487.0
+Body Side Moldings $209.0
+Cargo Net-Envelope $49.0
+Cargo Tote $49.0
+Cargo Tray $100.0
+Carpet Floor Mats $129.0
+Carpet Mat Package $244.0
+Carpet Trunk Mat $95.0
+Coin Holder/Ashtray Cup $26.0
+Door Edge Guards $125.0
+Door Sill Protectors $199.0
+Emergency Assistance Kit $59.0
+First Aid Kit $30.0
+Four Season Floor Mat Package $393.0
+TRD Performance Exhaust $700.0
+TRD Lowering Springs $299.0
+
+
+
+Hahaha
+haha $909.0
+}
+Response to server: 
+1
+Input a filename for reading: 
+Features2.prop
+Sending {Remote Keyless Entry=4000, ModelName=Ford Wagon ZTW, Rear-Seat DVD Player=2750, Radar Cruise Control=1990, OptionSet=Nice To Have, GPS Navigation System=5500, Side Airbags=3000, High-End Stereos=7000} to server ... 
+Received server response ... 
+{Ford Wagon ZTW=Ford Wagon ZTW
+18445.0
+
+Color
+Fort Knox Gold Clearcoat Metallic $0.0
+Liquid Grey Clearcoat Metallic $0.0
+Infra-Red Clearcoat $0.0
+Grabber Green Clearcoat Metallic $0.0
+Sangria Red Clearcoat Metallic $0.0
+French Blue Clearcoat Metallic $0.0
+Twilight Blue Clearcoat Metallic $0.0
+CD Silver Clearcoat Metallic $0.0
+Pitch Black Clearcoat $0.0
+Cloud 9 White Clearcoat $0.0
+
+Transmission
+Automatic $0.0
+manual $-815.0
+
+Brakes/Traction Control
+Standard $0.0
+ABS $400.0
+ABS with Advance Trac $1625.0
+
+Side Impact Air Bags
+Present $0.0
+not present $350.0
+
+Power Moonroof
+Present $0.0
+not present $595.0
+
+
+, Default Vehicle=Default Vehicle
+20000.0
+
+Color
+Classic Silver Metallic $0.0
+Black Sand Pearl $0.0
+Barcelona Red Metallic $0.0
+Super White $0.0
+Slate Metallic $0.0
+Falcon Gray Metallic $0.0
+Galactic Aqua Mica $0.0
+Blue Crush Metallic $0.0
+
+Transmission
+Continuously Variable Transmission with Intelligence and Shift Mode(CVTi-S) $0.0
+
+SE Premium Package
+Present $1535.0
+not present $0.0
+
+Accessories
+Alloy Wheel Locks $67.0
+All-Weather Floor Liners $149.0
+Body Protection Package $487.0
+Body Side Moldings $209.0
+Cargo Net-Envelope $49.0
+Cargo Tote $49.0
+Cargo Tray $100.0
+Carpet Floor Mats $129.0
+Carpet Mat Package $244.0
+Carpet Trunk Mat $95.0
+Coin Holder/Ashtray Cup $26.0
+Door Edge Guards $125.0
+Door Sill Protectors $199.0
+Emergency Assistance Kit $59.0
+First Aid Kit $30.0
+Four Season Floor Mat Package $393.0
+TRD Performance Exhaust $700.0
+TRD Lowering Springs $299.0
+
+
+
+Hahaha
+haha $909.0
+}
+Response to server: 
+0
+Sending 0 to server ... 
+Closing client input stream ... 
+Closing client output stream ... 
+Closing client console input stream ... 
+Closing client socket ... 

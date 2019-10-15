@@ -1,0 +1,52 @@
+12-Jun-2019 22:55:17.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.42
+12-Jun-2019 22:55:17.606 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 4 2019 20:29:04 UTC
+12-Jun-2019 22:55:17.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.42.0
+12-Jun-2019 22:55:17.610 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+12-Jun-2019 22:55:17.613 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.1
+12-Jun-2019 22:55:17.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+12-Jun-2019 22:55:17.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home
+12-Jun-2019 22:55:17.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.1+13-LTS
+12-Jun-2019 22:55:17.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Jun-2019 22:55:17.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/jakin/Desktop/Tomcat
+12-Jun-2019 22:55:17.615 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/jakin/Desktop/Tomcat
+12-Jun-2019 22:55:17.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Jun-2019 22:55:17.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Jun-2019 22:55:17.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Jun-2019 22:55:17.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/jakin/desktop/Tomcat/conf/logging.properties
+12-Jun-2019 22:55:17.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Jun-2019 22:55:17.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Jun-2019 22:55:17.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Jun-2019 22:55:17.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-Jun-2019 22:55:17.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Jun-2019 22:55:17.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/jakin/desktop/Tomcat
+12-Jun-2019 22:55:17.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/jakin/desktop/Tomcat
+12-Jun-2019 22:55:17.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/jakin/desktop/Tomcat/temp
+12-Jun-2019 22:55:17.620 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/jakin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+12-Jun-2019 22:55:17.689 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Jun-2019 22:55:17.731 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jun-2019 22:55:17.747 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+12-Jun-2019 22:55:17.749 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jun-2019 22:55:17.749 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1271 ms
+12-Jun-2019 22:55:17.835 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Jun-2019 22:55:17.835 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.42
+12-Jun-2019 22:55:17.850 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jakin/Desktop/Tomcat/webapps/docs]
+12-Jun-2019 22:55:18.615 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jakin/Desktop/Tomcat/webapps/docs] has finished in [765] ms
+12-Jun-2019 22:55:18.622 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jakin/Desktop/Tomcat/webapps/manager]
+12-Jun-2019 22:55:18.819 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jakin/Desktop/Tomcat/webapps/manager] has finished in [197] ms
+12-Jun-2019 22:55:18.820 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jakin/Desktop/Tomcat/webapps/examples]
+12-Jun-2019 22:55:19.466 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jakin/Desktop/Tomcat/webapps/examples] has finished in [645] ms
+12-Jun-2019 22:55:19.466 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jakin/Desktop/Tomcat/webapps/ROOT]
+12-Jun-2019 22:55:19.505 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jakin/Desktop/Tomcat/webapps/ROOT] has finished in [39] ms
+12-Jun-2019 22:55:19.505 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jakin/Desktop/Tomcat/webapps/host-manager]
+12-Jun-2019 22:55:19.540 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jakin/Desktop/Tomcat/webapps/host-manager] has finished in [34] ms
+12-Jun-2019 22:55:19.545 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Jun-2019 22:55:19.555 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+12-Jun-2019 22:55:19.557 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1807 ms
+12-Jun-2019 22:56:28.026 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+12-Jun-2019 22:56:28.026 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-Jun-2019 22:56:28.036 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+12-Jun-2019 22:56:28.043 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Jun-2019 22:56:28.089 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-Jun-2019 22:56:28.091 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+12-Jun-2019 22:56:28.093 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-Jun-2019 22:56:28.094 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

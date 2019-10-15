@@ -1,0 +1,9 @@
+#Storing properties from Features1.txt
+#Tue Jun 11 14:10:41 PDT 2019
+ModelName=Tesla Model 3
+Automatic\ emergency\ braking=5000
+Forward\ Collision\ Warning=3500
+Automatic\ High\ Beam=1950
+Rear\ Cross\ Traffic\ Warning=4500
+OptionSet=Safety
+Blind\ Spot\ Warning/Alert=2750

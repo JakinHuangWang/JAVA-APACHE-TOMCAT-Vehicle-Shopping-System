@@ -1,0 +1,7 @@
+Tesla Model 3
+28950
+Battery: Rear-Wheel Drive(Standard Range Plus) $0, Dual Motor All-Wheel Drive(Long Range) $10000, Dual Motor All-Wheel Drive(Performance) $20000
+Color: Solid Black $0, Midnight Silver Metallic $1000, Deep Blue Metallic $1000, Pearl White Multi-Coat $1500, Red Multi-Coat $2000
+Wheels: 18 inch Aero Wheels $0, 19 inch Sport Wheels $1500
+Interior: All Black $0, Black And White $1000
+Autopilot: Included $5000, Not Included $0

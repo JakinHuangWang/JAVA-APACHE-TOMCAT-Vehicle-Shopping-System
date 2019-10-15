@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+"http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+ <servlet>
+  <servlet-name>ListModels</servlet-name>
+  <servlet-class>Lab6.ListModels</servlet-class>
+ </servlet>
+ <servlet>
+     <servlet-name>ChooseOptions</servlet-name>
+     <servlet-class>Lab6.ChooseOptions</servlet-class>
+ </servlet>
+ <servlet-mapping>
+     <servlet-name>ListModels</servlet-name>
+     <url-pattern>/ListModels</url-pattern>
+ </servlet-mapping>
+ <servlet-mapping>
+     <servlet-name>ChooseOptions</servlet-name>
+     <url-pattern>/ChooseOptions</url-pattern>
+ </servlet-mapping>
+ <servlet-mapping>
+     <servlet-name>UserDesign</servlet-name>
+     <url-pattern>/UserDesign</url-pattern>
+ </servlet-mapping>
+ <servlet>
+     <servlet-name>UserDesign</servlet-name>
+     <servlet-class>Lab6.UserDesign</servlet-class>
+ </servlet>
+</web-app>
